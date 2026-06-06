@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kian 👋
 
-<!--
-**KianAbka/KianAbka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering Student at University of Isfahan
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Control Engineering
+- MATLAB & Simulink
+- PLC Programming
+- Python
+- Industrial Automation
+
+## Currently Learning
+
+- PCS7
+- Advanced Control Systems
+- Machine Learning
+
+## Contact
+
+Email: Kian.abka.1383@gmail.com
+LinkedIn: (https://www.linkedin.com/in/kian-abka?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
